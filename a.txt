@@ -1,3 +1,5 @@
 
 Ich versuche git zu kapieren!
 bugFix branch erstellt
+oh man ich drehe durch!
+wieder bugFix änderung!
