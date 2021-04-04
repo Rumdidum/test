@@ -1,5 +1,2 @@
-oh man ich drehe durch!!! :D git diff zeigt nur modifizierte dateien an"
-Ja geil hier kann man den editor direkt öffnen!!:D
-git reset HEAD file kenn ich nicht
-das ist eine änderung auf "issue" branch.
+Ich versuche git zu kapieren!
 
